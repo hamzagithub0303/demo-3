@@ -1,0 +1,6 @@
+version 1.2
+medtadata: 
+    name: abc
+    namespace: my-namespace
+spec:
+  
